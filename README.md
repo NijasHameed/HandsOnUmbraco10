@@ -1,4 +1,4 @@
-# HandsOnUmbraco10
+# Umbraco v10 Demo
 
 Demo site build in Umbraco v.10
 
